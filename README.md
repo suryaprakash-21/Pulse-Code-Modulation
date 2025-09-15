@@ -118,15 +118,15 @@ plt.show()
 ```
 # Output Waveform
 # Pluse Code Modulation Output
-```
+
 <img width="1189" height="990" alt="image" src="https://github.com/user-attachments/assets/39c98ddf-6463-49fe-8ef9-f1487ebef53f" />
 
-```
+
 # Delta Modulation Output
-```
+
 <img width="1203" height="590" alt="image" src="https://github.com/user-attachments/assets/18ccfb26-6766-4cd9-8d03-95315fe93f0b" />
 
-```
+
 # Results
 ```
 Thus we received the desired output.
